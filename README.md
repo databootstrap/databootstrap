@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @databootstrap (Siddharth)
-- 👀 I’m interested in doing something data or technology.Also, I love to educate myself about technological impacts on the macro socio-economic conditions.
+- 👀 I’m interested in doing something with data and technology. Also, I love to educate myself about technological impacts on the macro socio-economic conditions via the internet.
 - 🌱 I’m currently learning data analytics/ data science. 
 - 💞️ I’m looking to collaborate on data driven projects.
 - 📫 How to reach me ... siddharthnarasimhan.official@gmail.com
